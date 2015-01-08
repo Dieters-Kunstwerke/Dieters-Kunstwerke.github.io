@@ -1,0 +1,33 @@
+#hauptteil {
+	padding: 20px 0px 20px 0px;
+	font-size: 2em;
+	font-family: 'Devonshire', cursive;
+}
+#menu {
+	background: ;
+	font-family: 'Gloria Hallelujah', cursive;
+}
+.mitte {
+	margin: 0 30% 0 30%;
+}
+#menu li { 
+	display: inline; 
+	padding: 20px; 
+}
+#menu ul { 
+	margin: 0px;
+	padding: 20px 0px 20px 0px;
+}
+#menu a {
+    text-decoration: none;
+    color: #347C2C;
+}
+body, html {
+	margin: 0px;
+	padding: 0px;
+	background: grey;
+}
+.bild {
+	width: 45%;
+	height: 45%;
+}
