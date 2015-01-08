@@ -4,7 +4,7 @@
 	font-family: 'Devonshire', cursive;
 }
 #menu {
-	background: ;
+	background: #347C2C;
 	font-family: 'Gloria Hallelujah', cursive;
 }
 .mitte {
@@ -20,12 +20,12 @@
 }
 #menu a {
     text-decoration: none;
-    color: #347C2C;
+    color: white;
 }
 body, html {
 	margin: 0px;
 	padding: 0px;
-	background: grey;
+	background: #E5E4E2;
 }
 .bild {
 	width: 45%;
