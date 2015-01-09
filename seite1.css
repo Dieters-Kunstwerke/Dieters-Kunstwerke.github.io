@@ -1,6 +1,9 @@
 #hauptteil {
 	padding: 20px 0px 20px 0px;
-	font-size: 2em;
+	font-size: 1.5em;
+	font-family: 'Devonshire', cursive;
+}
+h1, h2, h3, h4, h5, h6 {
 	font-family: 'Devonshire', cursive;
 }
 #menu {
